@@ -9,4 +9,4 @@ Telegram Bot for Instagram.
 
 🤞 download profile's avatar of any account on Instagram
 
-[https://telegra.ph/file/58dc9864d6e68e74e817e.jpg]
+(https://telegra.ph/file/58dc9864d6e68e74e817e.jpg)
