@@ -7,7 +7,7 @@
         "Instagram"
     ],
     "repository": "https://github.com/nabilanavab/instagram-bot",
-    "website": "https://github.com/pokurt/GitGram",
+    "website": "https://github.com/nabilanavab/instagram-bot",
     "success_url": "https://t.me/GitGramChat",
     "env": {
         "ENV": {
