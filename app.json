@@ -1,12 +1,12 @@
 {
     "name": "Instagram-bot",
-    "description": "A Telegram bot that helps you to notify whenever someone started unfollowing",
+    "description": "A Telegram bot that helps you to notify whenever someone started unfollowing you on Instagram",
     "logo": "",
     "keywords": [
         "telegram",
-        "github"
+        "Instagram"
     ],
-    "repository": "https://github.com/pokurt/GitGram",
+    "repository": "https://github.com/nabilanavab/instagram-bot",
     "website": "https://github.com/pokurt/GitGram",
     "success_url": "https://t.me/GitGramChat",
     "env": {
