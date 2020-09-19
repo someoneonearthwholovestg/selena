@@ -25,6 +25,18 @@
         "POSTGRES_URI": {
             "description": "POSTGRES_URI=postgres://instabot:12345@localhost:5432/instabot",
             "value": ""
+        },
+        "POSTGRES_USER": {
+            "description": "postgres user",
+            "value": ""
+        },
+        "POSTGRES_PASSWORD": {
+            "description": "postgres password",
+            "value": ""
+        },
+        "POSTGRES_DB": {
+            "description": "postgres database",
+            "value": ""
         }
     }
   }
