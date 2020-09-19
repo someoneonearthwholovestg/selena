@@ -23,7 +23,7 @@
             "value": ""
         },
         "POSTGRES_URI": {
-            "description": "Heroku app url, example: https://appname.herokuapp.com",
+            "description": "POSTGRES_URI=postgres://instabot:12345@localhost:5432/instabot",
             "value": ""
         }
     }
