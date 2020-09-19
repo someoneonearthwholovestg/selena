@@ -19,10 +19,10 @@
             "value": ""
         },
         "PASSWORD": {
-            "description": "roject of what you desire",
+            "description": "instagram password",
             "value": ""
         },
-        "APP_URL": {
+        "POSTGRES_URI": {
             "description": "Heroku app url, example: https://appname.herokuapp.com",
             "value": ""
         }
